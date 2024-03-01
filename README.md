@@ -1,16 +1,5 @@
 # tic_tac_toe
 
-A new Flutter project.
+Flutter로 만든 Tic-Tac-Toe 게임입니다. 최대 6x6 배열까지 진행 가능합니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter version: 3.19.2
